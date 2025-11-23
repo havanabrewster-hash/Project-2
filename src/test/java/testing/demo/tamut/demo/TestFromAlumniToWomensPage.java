@@ -74,6 +74,6 @@ public class TestFromAlumniToWomensPage {
 	@AfterClass
 	public void tearDownClass() {
 		driver.quit();
-		System.out.println("Test Case 1 completed.");
+		System.out.println("Test Case 5 completed.");
 	}
 }
