@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Test Case 2" verbose="1">
+	<test name="SearchforCS">
+		<classes>
+			<class name="testing.demo.tamut.demo.TestSearch" />
+		</classes>
+	</test>
+	<test name="CSfromSearch">
+		<classes>
+			<class name="testing.demo.tamut.demo.ComputerScienceSearch" />
+		</classes>
+	</test>
+</suite>

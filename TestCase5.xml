@@ -1,0 +1,7 @@
+<suite name="Test Case 5" verbose="1">
+	<test name="Alumni to Womens page">
+		<classes>
+			<class name="testing.demo.tamut.demo.TestFromAlumniToWomensPage" />
+		</classes>
+	</test>
+</suite>

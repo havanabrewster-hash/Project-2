@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Test Case 1" verbose="1">
+	<test name="Visit Us">
+		<classes>
+			<class name="testing.demo.tamut.demo.TestVisitUsPage" />
+		</classes>
+	</test>
+</suite>
